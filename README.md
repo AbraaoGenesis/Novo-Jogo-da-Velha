@@ -8,5 +8,5 @@
 
 **Jogadores**
 
-- ❌ Primeiro jogador 
-- ⭕ Segundo jogador
+- ❌ Abraão 1
+- ⭕ Abraão 2
