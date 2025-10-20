@@ -8,5 +8,7 @@
 
 **Jogadores**
 
+**Vencedor Abraão 2**
+
 - ❌ Abraão 1
 - ⭕ Abraão 2
